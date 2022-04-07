@@ -1,0 +1,40 @@
+html{
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+
+/* Section */
+section{
+    width: 225px;
+    margin: 10rem auto;
+    background-color: hsl(0, 0%, 100%);
+    padding: 0.8rem;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 1.3rem hsl(210, 23%, 82%);
+}
+section img{
+    width: 225px;
+    border-radius: 0.5rem;
+}
+
+/* Article */
+article p{
+    text-indent: 0.25rem;
+    text-align: center;
+    padding: 0 0.5rem;
+}
+p.titulo{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin: 1rem 0 0 0;
+}
+p.subtitulo{
+    color: hsl(220, 15%, 55%);
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 0.5rem;
+}
+
