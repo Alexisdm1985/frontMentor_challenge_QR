@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -30,8 +29,8 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Fonrtedn Mentor](https://www.frontendmentor.io/solutions/qr-card-using-css-and-html-only-first-time-doing-this-SkhZ7i2Qq)
+- Live Site URL: [Github](https://alexisdm1985.github.io/frontMentor_challenge_QR/)
 
 ## My process
 
@@ -53,8 +52,8 @@ I want to keep doing this challenges cause I want to improve my coding skills so
 
 ### Useful resources
 
-- [Kevin Powell](https://www.kevinpowell.co/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Developer mozilla](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Kevin Powell](https://www.kevinpowell.co/) - This CSS MASTER have a lot of really nice videos that helped me so much.
+- [Developer mozilla](https://developer.mozilla.org/en-US/) - This page have all you need about CSS, JavaScript and HTML.
 
 ## Author
 
